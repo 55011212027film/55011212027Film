@@ -32,5 +32,5 @@ let keeppass = KeepUsername(KeepUser : "Film")
 keeppass.keepUserpass()
 keeppass.Add("paul", passAdd: "1234")
 keeppass.Del("Film")
-keeppass.Edit("poom", passedit: "FabFabFab")
+keeppass.Edit("Poom", passedit: "FabFabFab")
 
