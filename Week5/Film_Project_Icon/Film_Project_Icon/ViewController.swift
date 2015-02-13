@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController,UITableViewDelegate {
     let cellIdentifire = "cellIdentifire"
-    var tableData = ["imac", "e-comerce", "broweser", "graph", "design"]
+    var tableData = ["imac", "e-comerce", "browser", "graph", "design","package"]
     @IBOutlet var tableView: UITableView!
 
     override func viewDidLoad() {
