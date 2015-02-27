@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E9E248C-3084-4927-B601-ECD4C410EA39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LAB1Week6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67908F0CCC397240238073E89280A541169BDFAB</key>
+		<string>https://github.com/55011212098Parkpoom/TipCalculator.git</string>
+		<key>9CB1AB18631788A8D20717CB826F9DD65363E2CC</key>
+		<string>https://github.com/55011212098Parkpoom/55011212098poom.git</string>
+		<key>C9F46CF29A7CE3E43BF21C853B31E4C49B23C001</key>
+		<string>https://github.com/55011212027film/55011212027Film.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LAB1Week6/LAB1Week6.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67908F0CCC397240238073E89280A541169BDFAB</key>
+		<string>../../../../TipCalculator</string>
+		<key>9CB1AB18631788A8D20717CB826F9DD65363E2CC</key>
+		<string>../../../../55011212098poom</string>
+		<key>C9F46CF29A7CE3E43BF21C853B31E4C49B23C001</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/55011212027film/55011212027Film.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9F46CF29A7CE3E43BF21C853B31E4C49B23C001</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9F46CF29A7CE3E43BF21C853B31E4C49B23C001</string>
+			<key>IDESourceControlWCCName</key>
+			<string>55011212027Film</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CB1AB18631788A8D20717CB826F9DD65363E2CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>55011212098poom</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67908F0CCC397240238073E89280A541169BDFAB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TipCalculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
